@@ -20,6 +20,7 @@
 		6A1F3E6F161C655D0004C86A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A1F3E50161C655C0004C86A /* Foundation.framework */; };
 		6A1F3E77161C655D0004C86A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A1F3E75161C655D0004C86A /* InfoPlist.strings */; };
 		6A1F3E7A161C655D0004C86A /* ExemploJsonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A1F3E79161C655D0004C86A /* ExemploJsonTests.m */; };
+		6A1F3E84161C65730004C86A /* dados.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A1F3E83161C65730004C86A /* dados.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		6A1F3E76161C655D0004C86A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A1F3E78161C655D0004C86A /* ExemploJsonTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExemploJsonTests.h; sourceTree = "<group>"; };
 		6A1F3E79161C655D0004C86A /* ExemploJsonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExemploJsonTests.m; sourceTree = "<group>"; };
+		6A1F3E83161C65730004C86A /* dados.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = dados.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		6A1F3E3F161C655C0004C86A = {
 			isa = PBXGroup;
 			children = (
+				6A1F3E83161C65730004C86A /* dados.json */,
 				6A1F3E54161C655C0004C86A /* ExemploJson */,
 				6A1F3E72161C655D0004C86A /* ExemploJsonTests */,
 				6A1F3E4D161C655C0004C86A /* Frameworks */,
@@ -224,6 +227,7 @@
 			files = (
 				6A1F3E59161C655C0004C86A /* InfoPlist.strings in Resources */,
 				6A1F3E62161C655D0004C86A /* MainStoryboard.storyboard in Resources */,
+				6A1F3E84161C65730004C86A /* dados.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

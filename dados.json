@@ -1,0 +1,7 @@
+{
+    "empregados": [
+                  { "nome":"John" , "sobrenome":"Doe" }, 
+                  { "nome":"Anna" , "sobrenome":"Smith" }, 
+                  { "nome":"Peter" , "sobrenome":"Jones" }
+                  ]
+}
